@@ -1,0 +1,15 @@
+{
+    "env": {
+      "TODOMVC": "https://todomvc.com/examples/react/"
+    },
+    "retries": {
+      "runMode": 0,
+      "openMode": 0
+    },
+    "video": false,
+    "reporter": "junit",
+    "reporterOptions": {
+      "mochaFile": "results/TEST-[hash].xml"
+    }
+  }
+  
