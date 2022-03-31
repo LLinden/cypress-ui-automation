@@ -9,10 +9,10 @@ An example of UI test automation using Cypress to automate the TodoMVC app React
   
     npm install cypress
 
-  2.  To create the file package.json, type:
+  2. To create the file package.json, type:
 
     npm init -y
 
-  3. Execute the tests use:
+  3. To execute the tests use:
   
     npx cypress open
